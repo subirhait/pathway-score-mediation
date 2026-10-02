@@ -20,7 +20,7 @@ with list elements `Mval`, `ph`, `ann`, and `alpha`.
 
 ### Important provenance limitation
 
-The exact historical raw-data preparation script that created `luad_stage1.rds` is not included in the recoverable analysis archive. This repository therefore **does not claim raw-data-to-results reproducibility**. It provides reproducibility from the frozen processed stage-1 object onward. The original preprocessing script should be added if it is recovered before public release.
+The exact historical raw-data preparation script that created `luad_stage1.rds` is not included in the recoverable analysis archive. This repository therefore **does not claim raw-data-to-results reproducibility**. It provides reproducibility from the frozen processed stage-1 object onward. The original preprocessing script will be added in a future version if it is recovered.
 
 The processed stage-1 object itself is **not tracked in Git**.
 
