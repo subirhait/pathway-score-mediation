@@ -1,0 +1,3 @@
+direction,n_screen,n_estimate,eligible_genes,strict_fdr05_genes
+screen1_estimate2,211,210,15758,0
+screen2_estimate1,210,211,15758,14

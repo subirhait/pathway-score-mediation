@@ -1,0 +1,24 @@
+{
+  "title": "Reproducibility Code for \"When Does a Pathway Score Preserve a Mediated Effect? Aggregation Geometry, Minimax Adequacy, and Gap Inference for High-Dimensional Mediation\"",
+  "upload_type": "software",
+  "description": "Version 1.0.0 of the R reproducibility code and frozen reference results accompanying the manuscript \"When Does a Pathway Score Preserve a Mediated Effect? Aggregation Geometry, Minimax Adequacy, and Gap Inference for High-Dimensional Mediation\". The repository reproduces the analysis from the processed TCGA LUAD stage-1 object onward, including simulations, the empirical application, genome-wide audit, independent cross-screened audit, figure generation, and 48-check numerical verification. Raw and processed patient-level TCGA data are not redistributed.",
+  "creators": [
+    {
+      "name": "Hait, Subir",
+      "affiliation": "Michigan State University"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "causal mediation",
+    "high-dimensional mediation",
+    "pathway score",
+    "aggregation",
+    "sufficient dimension reduction",
+    "TCGA",
+    "DNA methylation",
+    "reproducibility"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-01"
+}

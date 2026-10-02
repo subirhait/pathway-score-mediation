@@ -1,0 +1,22 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local TCGA data and generated empirical outputs
+/tcga_lung/*
+!/tcga_lung/README.md
+
+# Generated figures and verification logs
+/figures/
+/verification/
+/sessionInfo_current.txt
+/sessionInfo_full_R_workflow.txt
+/gap_inference_results_R.csv
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+~$*

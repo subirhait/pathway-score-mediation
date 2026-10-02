@@ -1,0 +1,8 @@
+metric,value
+eligible_genes,1314
+kappa_nonpositive,1
+mean_omega2_below0,42
+mean_omega2_above1,316
+mean_omega2_outside01,358
+prom_omega2_outside01,358
+pnp_omega2_outside01,207

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and the archived software release."
+title: "Pathway-score mediation reproducibility code"
+type: software
+authors:
+  - family-names: "Hait"
+    given-names: "Subir"
+    affiliation: "Michigan State University"
+version: "1.0.0"
+date-released: "2026-10-01"
+license: MIT
+abstract: "R code and frozen verification results for analyses accompanying the manuscript 'When Does a Pathway Score Preserve a Mediated Effect? Aggregation Geometry, Minimax Adequacy, and Gap Inference for High-Dimensional Mediation'."
+keywords:
+  - causal mediation
+  - high-dimensional mediation
+  - pathway scores
+  - dimensionality reduction
+  - sufficient dimension reduction
+  - TCGA
+  - DNA methylation
+  - reproducibility
