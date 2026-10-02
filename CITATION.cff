@@ -6,8 +6,8 @@ authors:
   - family-names: "Hait"
     given-names: "Subir"
     affiliation: "Michigan State University"
-version: "1.0.0"
-date-released: "2026-10-01"
+version: "1.0.2"
+date-released: "2026-10-02"
 license: MIT
 abstract: "R code and frozen verification results for analyses accompanying the manuscript 'When Does a Pathway Score Preserve a Mediated Effect? Aggregation Geometry, Minimax Adequacy, and Gap Inference for High-Dimensional Mediation'."
 keywords:
